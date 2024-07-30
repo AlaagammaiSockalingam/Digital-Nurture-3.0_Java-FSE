@@ -1,0 +1,59 @@
+EX1:
+Are logger1 and logger2 the same instance? true
+Log: Hello, world!
+Log: This is another log message.
+-----------------------------------------------------------------
+EX2:
+Printing a Word document...
+Printing a PDF document...
+Printing an Excel document...
+PS C:\Users\LENOVO> 
+------------------------------------------------------------------
+EX3:
+Basic Computer: Computer{cpu='Intel Core i5', ram=8, storage=0, gpu='null', os='null'}
+Gaming Computer: Computer{cpu='AMD Ryzen 9', ram=16, storage=1024, gpu='NVIDIA GeForce RTX 3080', os='Windows 11'}
+------------------------------------------------------------------------------------------------
+EX4:
+
+Playing vlc file: movie.vlc
+Playing mp4 file: movie.mp4
+------------------------------------------------------------------------
+EX5:
+Sending email: Hello, world!
+Sending email: Hello, world!
+Sending SMS: Hello, world!
+Sending email: Hello, world!
+Sending SMS: Hello, world!
+Sending Slack notification: Hello, world!
+---------------------------------------------------------------------
+EX6:
+Loading image1.jpg
+Displaying image1.jpg
+Displaying image1.jpg
+Loading image2.jpg
+Displaying image2.jpg
+---------------------------------------------------------------------
+EX7:
+Mobile App: Received update. New stock price is 100.0
+Web App: Received update. New stock price is 100.0
+Mobile App: Received update. New stock price is 150.0
+------------------------------------------------------------------
+EX8:
+Paying $100.0 using credit card 1234-5678-9012-3456
+Paying $200.0 using PayPal account abc@example.com
+------------------------------------------------------------------
+EX9:
+Light is on
+Light is off
+-------------------------------------------------------
+EX10:
+Student Details:
+Name: Jane Doe
+ID: 123
+Grade: 90.0
+-----------------------------------------------------------------------------------
+EX11:
+Customer ID: 1
+Customer Name: John Doe
+Customer Email: john@example.com
+-------------------------------------------------------------------------------
